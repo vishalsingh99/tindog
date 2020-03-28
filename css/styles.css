@@ -1,15 +1,35 @@
 #title{
   background-color:#ff4c68;
+  color: #fff;
 }
 
 h1{
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
-  font-size: 3rem;
+  font-size: 3.5rem;
 }
 body{
   font-family: 'Ubuntu', sans-serif;
 }
+
 .container-fluid{
   padding: 3% 15%;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  line-height: .5;
+  color: #fff;
+}
+.nav-link{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.3rem;
+  line-height: .5;
+  color: #fff;
+}
+.dwnld-btn{
+  margin:5% 2% 5% 0;
+}
+.title-img{
+  width: 60%;
 }
