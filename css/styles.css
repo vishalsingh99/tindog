@@ -80,7 +80,7 @@ h2{
 }
 
 #pricing{
-  padding: 100px;
+  padding: 100px 100px 50px 100px;
   text-align: center;
 }
 .pricing-col{
@@ -103,7 +103,8 @@ a:hover{
 .contact-me{
   background-color:#edffea;
  text-align: center;
- margin-bottom: 20px;
+ padding-bottom:20px;
+ padding-top: 20px;
 }
 .bottom-container{
   background-color: #66BFBF;
