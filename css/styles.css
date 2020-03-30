@@ -46,7 +46,7 @@ body{
 }
 .icon{
   color: #ef8172;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 .icon:hover{
   color: #ff4c68;
@@ -100,7 +100,7 @@ a:hover{
   color: #EAF6F6;
 }
 
-.contact-me{
+#contact-me{
   background-color:#edffea;
  text-align: center;
  padding-bottom:20px;
