@@ -82,6 +82,8 @@ h2{
 #pricing{
   padding: 100px 100px 50px 100px;
   text-align: center;
+  background-color: #fbfbfb;
+  color: #297ca0;
 }
 .pricing-col{
   padding: 3% 2%;
@@ -107,7 +109,7 @@ a:hover{
  padding-top: 20px;
 }
 .bottom-container{
-  background-color: #66BFBF;
+  background-color: #edffea;
   line-height: 2;
   padding: 50px 0 30px 0;
   text-align: center;
