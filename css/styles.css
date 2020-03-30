@@ -136,3 +136,14 @@ a:hover{
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
+/* Adding Media Query */
+
+@media (max-width:1280px) {
+  #title{
+    text-align: center;
+  }
+  .title-img{
+    position: static;
+  }
+}
